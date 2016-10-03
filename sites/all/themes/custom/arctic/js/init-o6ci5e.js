@@ -330,7 +330,7 @@
   Drupal.behaviors.medalCounter = {
     attach: function(context, settings) {
       $('.medal-counter', context).once('medal-counter', function() {
-        var url = 'http://awg2016.gems.pro/WebAPI/api/MedalCountModel/GetMedalCount?Culture=en-CA',
+        var url = 'https://awg2016.gems.pro/WebAPI/api/MedalCountModel/GetMedalCount?Culture=en-CA',
             $container = $(this);
 
 
