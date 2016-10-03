@@ -495,7 +495,7 @@ header .pane-system-main-menu .pane-content > ul > li {
                 position: absolute;
                 right: 0;
                 bottom: 0;
-                background: url("../../../../../../en/sites/all/themes/custom/arctic/images/nav-arrows.png.html") no-repeat right top; }
+                background: url("../images/submenu_arrow.png") no-repeat right top; }
               body header .pane-system-main-menu .pane-content > ul > li.expanded .show-submenu a:hover, body header .pane-system-main-menu .pane-content > ul > li.expanded .show-submenu a:focus, body header .pane-system-main-menu .pane-content > ul > li.expanded .show-submenu a:active {
                 background-position: right bottom; }
           body header .pane-system-main-menu .pane-content > ul > li + li > a {
